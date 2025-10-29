@@ -1,1 +1,4 @@
-# image-resize-with-aws-ecs
+Multer is a Node.js middleware for handling file uploads in Express applications. It processes incoming multipart/form-data requests, which are commonly used for uploading files (such as images, documents) from forms. Multer saves the uploaded files to your server or memory, making them accessible in your code for further processing.
+
+
+Sharp is a popular Node.js library for image processing. It allows you to resize, crop, rotate, and convert images efficiently. Sharp is commonly used in web applications to handle image uploads and transformations, providing fast performance and support for various image formats (JPEG, PNG, WebP, etc.).

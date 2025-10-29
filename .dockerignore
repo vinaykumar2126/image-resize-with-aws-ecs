@@ -1,0 +1,16 @@
+# Exclude node modules (install in image)
+node_modules
+
+# Don't send uploads or git metadata into image build context
+uploads
+.git
+
+# Local env and editor files
+.env
+.vscode
+.idea
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
